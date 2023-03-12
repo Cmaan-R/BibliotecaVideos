@@ -1,0 +1,81 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Battlefield 4 GamePlay Pc HD",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/7yehtjm3D64",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 2,
+      "titulo": "Red Dead Redemption 2 Gameplay 3",
+      "descricao": "1,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/7f9ytxP6df4",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 3,
+      "titulo": "Brawlhalla Highlights - 2",
+      "descricao": "30 mil visualizações",
+      "url": "https://www.youtube.com/embed/F1fZwyl7O9A",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 4,
+      "titulo": "The Last of Us™",
+      "descricao": "2,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/1005ohXUEUo",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 5,
+      "titulo": "Cyberpunk 2077 Gameplay PC Teste No Commentary",
+      "descricao": "1,6 mil visualizações",
+      "url": "https://www.youtube.com/embed/-rYl-KjJikg",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "titulo": "Call of duty - Warfare 2",
+      "descricao": "2,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/2sOelKBOYXU",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 6
+    },
+    {
+      "titulo": "Call of Duty®: Black Ops III",
+      "descricao": "8,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/Wp3Fyki8lDc",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 7
+    },
+    {
+      "titulo": "Counter strike Global Offensive 02 01 2018 12 32 54 08 DVR",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/zIoBBsuqOzM",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 8
+    },
+    {
+      "titulo": "Call Of Duty Warzone No Commentary (First Match)",
+      "descricao": "11 mil visualizações",
+      "url": "https://www.youtube.com/embed/2Ib8nxX79f8",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 9
+    },
+    {
+      "titulo": "Call Of Duty Modern Warfare - 1",
+      "descricao": "12 mil visualizações",
+      "url": "https://www.youtube.com/embed/YEfusFZIWmo",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 9
+    },
+    {
+      "titulo": "Resident Evil 6 Gameplay Em Português - Sem Comentários - Parte 1",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/y4PbFj3Ffic",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 10
+    }
+  ]
+}
